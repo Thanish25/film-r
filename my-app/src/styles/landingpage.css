@@ -1,0 +1,52 @@
+
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    
+}
+.form {
+    
+    border: solid;
+    border-color: #122D49;
+    height: 30rem;
+    display: flex;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    
+    color: white;
+    background-color: #081A2E;
+    width: 50rem;
+    border-radius: 25px;
+    align-items: center;
+}
+
+.padding {
+    padding-top: 5%;
+}
+
+form {
+    width: 48%;
+}
+
+.hello{
+    
+    width: 48%;
+}
+
+.line{
+    width: 2%;
+    border-left: 2px solid #122D49;
+    height: 25rem;
+}
+
+
+  input {
+    background-color: #f1f1f1;
+    border: 0px solid transparent;
+    padding: 20px;
+    font-size: 16px;
+    color: black;
+    border-radius: 5px;
+  }

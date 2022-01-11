@@ -1,0 +1,15 @@
+.watchlist-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    position:absolute;
+    /* padding-left: 50px; */
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+  
+    color: white;
+    padding-top: 10px;
+}
